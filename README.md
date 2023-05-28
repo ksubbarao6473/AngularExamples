@@ -1,5 +1,7 @@
 # Myapp1
 
+In this application we have demonstrated the parent to child communication vice versa.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
